@@ -1,0 +1,10 @@
+### get to main page
+GET https://cse341-project1-4hwa.onrender.com/
+
+
+### get all contacts
+GET https://cse341-project1-4hwa.onrender.com/contacts
+
+
+### get contact by id
+GET https://cse341-project1-4hwa.onrender.com/contacts/6823039f4ec162df4f5d4239
